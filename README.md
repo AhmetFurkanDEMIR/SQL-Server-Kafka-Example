@@ -3,7 +3,7 @@
 
 ## SQL Server Kafka Example
 
-![index](https://user-images.githubusercontent.com/54184905/169160093-b72749ec-0460-4e2b-82c6-159831674709.jpeg)
+![index](https://user-images.githubusercontent.com/54184905/169161043-3a33ca1f-d267-40fd-83be-f1cd130e5508.jpeg)
 
 Hello everyone, in this example, when a change is detected in SQL Server (Insert, Update and Delete), we will capture it with Debezium connect and write it to Kafka and then read it.
 
@@ -93,6 +93,7 @@ For this, we will use the application written in Java named [kafkaConsumer](/kaf
 ![Screenshot_2022-05-19_00-10-47](https://user-images.githubusercontent.com/54184905/169156803-60021196-8b93-4cbd-8af3-e532c4e3f114.png)
 
 ![Screenshot_2022-05-19_00-13-15](https://user-images.githubusercontent.com/54184905/169156797-90ce0139-2693-40db-be32-b543f9210530.png)
+
 That's all I'm going to tell you, you can modify this architecture and use it for different purposes in your own projects, take care :).
 
 [Ahmet Furkan DEMIR](https://www.ahmetfurkandemir.com/)
