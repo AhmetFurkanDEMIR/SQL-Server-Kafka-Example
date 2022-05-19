@@ -92,7 +92,7 @@ For this, we will use the application written in Java named [kafkaConsumer](/kaf
 
 ![Screenshot_2022-05-19_00-10-47](https://user-images.githubusercontent.com/54184905/169156803-60021196-8b93-4cbd-8af3-e532c4e3f114.png)
 
-![Screenshot_2022-05-19_00-13-15](https://user-images.githubusercontent.com/54184905/169156797-90ce0139-2693-40db-be32-b543f9210530.png)
+![169156797-90ce0139-2693-40db-be32-b543f9210530](https://user-images.githubusercontent.com/54184905/169234102-699f7df9-c1ee-4a61-878f-8063143e69ce.png)
 
 That's all I'm going to tell you, you can modify this architecture and use it for different purposes in your own projects, take care :).
 
